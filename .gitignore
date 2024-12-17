@@ -1,0 +1,10 @@
+__pycache__
+render.yaml
+*.csv
+pyproject.toml
+.venv
+poetry.lock
+patients.db
+*.mp4
+.python-version
+uv.lock
